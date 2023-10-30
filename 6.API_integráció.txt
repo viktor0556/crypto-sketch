@@ -1,0 +1,30 @@
+1. Tőzsde kiválasztása és regisztráció
+
+Válaszd ki a kriptovaluta tőzsdét, amelyen kereskedni szeretnél.
+Regisztrálj egy fiókot a tőzsdén és szerezz hozzáférést az API-hoz.
+Jegyzeteld fel az API hozzáférési információkat, például az API kulcsokat és a titkos kulcsokat.
+2. API dokumentáció tanulmányozása
+
+Szerezd be és tanulmányozd meg a tőzsde API dokumentációját.
+Értsd meg, hogy milyen API végpontok érhetők el, és hogyan használhatod őket a tranzakciók végrehajtásához és az adatok lekéréséhez.
+3. Kommunikációs osztály létrehozása
+
+Hozz létre egy külön osztályt vagy modult a kódodban, amely felelős lesz a tőzsde API-val történő kommunikációért.
+4. API kulcsok beállítása
+
+Add meg a jegyzetelt API kulcsokat a kódban vagy környezeti változóként, hogy biztonságosan kezeld őket.
+5. API kérések előkészítése és küldése
+
+Hozz létre metódusokat a különböző API kérések elküldéséhez. Például, készíts metódust a számlainformáció lekéréséhez, kereskedési megbízások indításához és piaci adatok lekéréséhez.
+6. API válaszok kezelése
+
+Készíts olyan kódot, amely a tőzsde API válaszait feldolgozza, például az árak és az állomány információit.
+7. Hibakezelés
+
+Implementálj hibakezelést, hogy kezeld a váratlan hibákat, például hálózati hibákat vagy az API-től kapott hibákat.
+8. Demó tesztelés
+
+Teszteld az API integrációt egy demószámlán vagy demókörnyezetben, hogy megbizonyosodj róla, hogy minden helyesen működik.
+9. Éles kereskedés előkészítése
+
+Miután sikeresen lekommunikáltál az API-val és a tesztelés is sikerült, készítsd elő a botodat az éles kereskedéshez.

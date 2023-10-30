@@ -1,0 +1,15 @@
+1. Kritovaluták: Mi az a Bitcoin, Ethereum, Litecoin és pár további fontos kriptovaluta. megérteni, miért és hogyan jöttek létre.
+
+2. Stratégiák: Mi az a kereskedési stratégia pl.: a trendkövető arbitrázs és a swing, értsem meg hogyan működnek.
+
+3. Technikai elemzés.
+
+4. A hírek folyamatos követése.
+
+5. Kereskedési botok: Keretrendszerek tanulmányozása, tanulás mások elkészített kódjaikból.
+
+6. Botokhoz források: a kriptovaluta tőzsdéhez tartozó API dokumentációk és példaprogramok áttekintése és kijegyzetelése.
+
+7. Tanulás a kriptovaluta kereskedési botok fejlesztéséről.
+
+8. Egy saját projekt elkészítése gyakorlásképp.

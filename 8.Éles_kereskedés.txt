@@ -1,0 +1,37 @@
+1. Válaszd ki a Kriptovaluta Tőzsdét:
+
+Válaszd ki a kriptovaluta tőzsdét, ahol éles kereskedést szeretnél folytatni.
+Ellenőrizd, hogy a tőzsde támogatja az API-kat és funkciókat, amelyekre a kereskedési botodnak szüksége van.
+2. Regisztráció és Engedélyek:
+
+Regisztrálj egy fiókot a kiválasztott kriptovaluta tőzsdén.
+Győződj meg róla, hogy rendelkezel az összes szükséges engedéllyel és jogosultsággal a kereskedéshez.
+3. API Kulcsok Létrehozása:
+
+Hozz létre API kulcsokat a tőzsde fiókodon, amelyeket a kereskedési botod használni fog.
+Győződj meg róla, hogy korlátozd az API kulcsok jogosultságait és csak a szükséges funkciókat engedélyezd.
+4. Kereskedési Bot Konfigurálása:
+
+Állítsd be a kereskedési botodat az éles kereskedéshez.
+Add meg az API kulcsokat és a tőzsde adatait a bot konfigurációjában.
+5. Kockázatkezelés:
+
+Határozd meg a kockázatkezelési stratégiádat, beleértve a pozíció méretét, stop-loss és take-profit szinteket.
+6. Live Monitorozás:
+
+Indítsd el a kereskedési botot az éles kereskedéshez.
+Figyeld az éles kereskedést és a bot döntéseit.
+7. Analízis és Javítás:
+
+Analizáld a kereskedési botod teljesítményét és az éles kereskedési eredményeket.
+Ha szükséges, hozz változtatásokat a bot konfigurációjában és a stratégiádban.
+8. Naprakészen Maradás:
+
+Kövesd nyomon a kriptovaluta piacokat és a híreket a változások nyomon követése és a stratégia finomítása érdekében.
+9. Profit és Veszteség Kezelése:
+
+Kezeld a profitot és veszteséget az éles kereskedés során.
+Tartsd nyilván a kereskedési teljesítményt és az eredményeket.
+10. Folyamatos Fejlesztés:
+
+Ne hagyd abba a kereskedési bot fejlesztését és finomítását az éles kereskedés során is.

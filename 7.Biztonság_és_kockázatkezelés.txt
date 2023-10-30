@@ -1,0 +1,35 @@
+I. Adatbiztonság:
+
+Titkosítás: Hogyan tervezed titkosítani a felhasználói adatokat és a kritikus információkat?
+Jelszavak és hitelesítés: Milyen módszereket alkalmazol a jelszavak tárolására és az azonosításra?
+Felhasználói jogok: Hogyan gondoskodsz róla, hogy csak a megfelelő jogosultságokkal rendelkező felhasználók férjenek hozzá a botodhoz?
+Webbiztonság:
+
+SQL injection és Cross-Site Scripting (XSS) elleni védelem: Hogyan véded meg a webalkalmazásodat ezekkel a közös támadásokkal szemben?
+Webalkalmazás tűzfal: Szükséged van-e webalkalmazás tűzfalra a védelem érdekében?
+Hardverbiztonság:
+
+Hol fut a kereskedési bot? Hogyan véded a fizikai eszközöket, ahol a bot működik?
+Kétlépcsős hitelesítés: Szükséged van-e a belépéshez kétlépcsős hitelesítésre?
+
+II. Kockázatkezelés:
+
+Piaci kockázat:
+
+Kockázatkezelési stratégia: Milyen stratégiát alkalmazol a veszteségek minimalizálására a piaci volatilitás esetén?
+Stop-loss megbízások: Hogyan és mikor használod a stop-loss megbízásokat a veszteségek korlátozására?
+Műszaki kockázat:
+
+Tesztelés és hibakeresés: Hogyan tervezed a botod tesztelését és hibakeresését a valós kereskedés előtt?
+Folyamatos karbantartás: Hogyan fogod karbantartani és frissíteni a botodat, hogy megfelelj a változó piaci feltételeknek?
+Adatkockázat:
+
+Adatmentés és visszaállítás: Hogyan biztosítod az adatok rendszeres mentését és visszaállítását, hogy ne vesszenek el?
+Operációs kockázat:
+
+Üzemeltetési terv: Milyen üzemeltetési tervet dolgozol ki a botodnak, és milyen módon kezeled a váratlan eseményeket (pl., szerverleállások, áramszünetek)?
+Pénzügyi kockázat:
+
+Tőkekezelés: Milyen tőkekezelési stratégiát alkalmazol a kereskedési tőkéd kezelésére?
+Portfólió diverzifikáció: Fontolóra veszed-e a kriptovaluta portfóliód diverzifikációját a kockázat terjesztése érdekében?
+

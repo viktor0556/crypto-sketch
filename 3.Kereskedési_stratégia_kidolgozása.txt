@@ -1,0 +1,38 @@
+1. Bevezetés:
+-A stratégia bevezetése és rövid áttekintése.
+
+2. Időkeret kiválasztása:
+-Mely időkeret(ek)re alkalmazódik a stratégia? (pl., napi, 4 órás, 1 órás, stb.)
+
+3. Kereskedési Indikátorok Kiválasztása:
+-Milyen technikai indikátorokat fogsz használni a döntéshozatal során? (pl., -Mozgóátlagok, RSI, StochRSI, MACD, stb.)
+
+4. Bemeneti Jelzések:
+-Az indikátorok által generált bemeneti jelzések és feltételek.
+
+5. Kereskedési Pozíció Méretezés:
+-Hogyan határozod meg a kereskedési pozíció méretét (lotméret, tőkearányos méretezés stb.)?
+
+6. Stop-Loss és Take-Profit Szintek:
+-Hogyan határozod meg a veszteségek korlátozására és a profit realizálására vonatkozó szinteket?
+
+7. Kockázatkezelési Stratégia:
+-Milyen kockázatkezelési elveket alkalmazol, és milyen kockázati arányt vállalsz egy-egy kereskedés során?
+
+8. Kereskedési Szabályok:
+-A kereskedési szabályok meghatározása, például milyen feltételek mellett lépsz be a piacra vagy zárod be a pozíciót.
+
+9. Éles Kereskedési Példa:
+-Egy konkrét példa az éles kereskedési folyamatról, beleértve az összes fenti lépést.
+
+10. Tesztelés és Visszatesztelés:
+-Hogyan fogod tesztelni és optimalizálni a stratégiát a történelmi adatok alapján?
+
+11. Pszichológiai Előkészületek:
+-Milyen pszichológiai szempontokat veszel figyelembe a kereskedés során? (pl., érzelmi kontroll, kereskedési napló vezetése)
+
+12. Éles Kereskedés és Felülvizsgálat:
+-Az éles kereskedési gyakorlatba való bevezetése a stratégiának, és rendszeres felülvizsgálatok bevezetése az eredmények kiértékelésére.
+
+13. Fejlesztés és Optimalizáció:
+-Hogyan fogod továbbfejleszteni és optimalizálni a stratégiát az éles kereskedés során szerzett tapasztalatok alapján?
